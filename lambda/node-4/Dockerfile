@@ -1,4 +1,4 @@
-FROM node:4-alpine
+FROM arm64v8/node:4-alpine
 
 WORKDIR /function
 
